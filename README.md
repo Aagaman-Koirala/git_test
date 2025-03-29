@@ -1,3 +1,4 @@
 # git_test
-Hello Odin!
-waig
+
+Testing GIT
+Monkey D. Luffy is the GOAt
